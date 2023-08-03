@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="41px" height="34px" viewBox="0 0 41 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>wallet</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Контакты" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="contacts-1400" transform="translate(-729.000000, -449.000000)" stroke="#0099C5">
+            <g id="oplata" transform="translate(730.000000, 446.000000)">
+                <g id="wallet" transform="translate(0.000000, 4.000000)">
+                    <g id="Free_Icons">
+                        <g id="Group">
+                            <polygon id="Shape" stroke-linejoin="round" points="22.0230263 21.8382979 38.8432018 21.8382979 38.8432018 13.4978723 22.0230263 13.4978723 17.8179825 17.6680851"></polygon>
+                            <polyline id="Shape" stroke-linecap="round" stroke-linejoin="round" points="32.1151316 21.8382979 32.1151316 31.8468085 0.156798246 31.8468085 0.156798246 3.4893617 32.1151316 3.4893617 32.1151316 13.4978723"></polyline>
+                            <polyline id="Shape" stroke-linecap="round" stroke-linejoin="round" points="35.4791667 22.6723404 35.4791667 28.5106383 32.1151316 28.5106383"></polyline>
+                            <polyline id="Shape" stroke-linecap="round" stroke-linejoin="round" points="0.156798246 3.4893617 3.52083333 0.153191489 35.4791667 0.153191489 35.4791667 13.4978723"></polyline>
+                            <path d="M23.7050439,18.5021277 L23.7050439,16.8340426" id="Shape" stroke-linecap="round"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

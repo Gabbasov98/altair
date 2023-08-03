@@ -1,0 +1,72 @@
+/* font-family: "RobotoRegular"; */
+@font-face {
+    font-family: "RobotoRegular";
+    src: url("RobotoRegular/RobotoRegular.eot");
+    src: url("RobotoRegular/RobotoRegular.eot?#iefix")format("embedded-opentype"),
+    url("RobotoRegular/RobotoRegular.woff") format("woff"),
+    url("RobotoRegular/RobotoRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "RobotoLight"; */
+@font-face {
+    font-family: "RobotoLight";
+    src: url("RobotoLight/RobotoLight.eot");
+    src: url("RobotoLight/RobotoLight.eot?#iefix")format("embedded-opentype"),
+    url("RobotoLight/RobotoLight.woff") format("woff"),
+    url("RobotoLight/RobotoLight.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "RobotoMedium"; */
+@font-face {
+    font-family: "RobotoMedium";
+    src: url("RobotoMedium/RobotoMedium.eot");
+    src: url("RobotoMedium/RobotoMedium.eot?#iefix")format("embedded-opentype"),
+    url("RobotoMedium/RobotoMedium.woff") format("woff"),
+    url("RobotoMedium/RobotoMedium.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "RobotoBold"; */
+@font-face {
+    font-family: "RobotoBold";
+    src: url("RobotoBold/RobotoBold.eot");
+    src: url("RobotoBold/RobotoBold.eot?#iefix")format("embedded-opentype"),
+    url("RobotoBold/RobotoBold.woff") format("woff"),
+    url("RobotoBold/RobotoBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/* font-family: "RobotoCondensedRegular"; */
+@font-face {
+    font-family: "RobotoCondensedRegular";
+    src: url("RobotoCondensedRegular/RobotoCondensedRegular.eot");
+    src: url("RobotoCondensedRegular/RobotoCondensedRegular.eot?#iefix")format("embedded-opentype"),
+    url("RobotoCondensedRegular/RobotoCondensedRegular.woff") format("woff"),
+    url("RobotoCondensedRegular/RobotoCondensedRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "RobotoCondensedLight"; */
+@font-face {
+    font-family: "RobotoCondensedLight";
+    src: url("RobotoCondensedLight/RobotoCondensedLight.eot");
+    src: url("RobotoCondensedLight/RobotoCondensedLight.eot?#iefix")format("embedded-opentype"),
+    url("RobotoCondensedLight/RobotoCondensedLight.woff") format("woff"),
+    url("RobotoCondensedLight/RobotoCondensedLight.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+/* font-family: "RobotoCondensedBold"; */
+@font-face {
+    font-family: "RobotoCondensedBold";
+    src: url("RobotoCondensedBold/RobotoCondensedBold.eot");
+    src: url("RobotoCondensedBold/RobotoCondensedBold.eot?#iefix")format("embedded-opentype"),
+    url("RobotoCondensedBold/RobotoCondensedBold.woff") format("woff"),
+    url("RobotoCondensedBold/RobotoCondensedBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
