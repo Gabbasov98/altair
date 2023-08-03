@@ -98,11 +98,11 @@ form .loading .button__img_wrap {
 }
 
 .listing_to_cart .button__img_wrap {
-    background-image: url(./templates/default/img/svg/shopping_cart_fill.svg);
+    background-image: url(../img/svg/shopping_cart_fill.svg);
 }
 
 .object_to_cart .button__img_wrap {
-    background-image: url(./templates/default/img/svg/shopping_cart_in.svg);
+    background-image: url(../img/svg/shopping_cart_in.svg);
 }
 
 .listing_to_cart.loading .button__img_wrap,
@@ -162,8 +162,9 @@ h1.itemCard__title {
 }
 
 .subtitle {
-    color: #00457c;
+    color: #3A3A3A;
     font-size: 1.25rem;
+    font-weight: 700;
 }
 
 .listing .subtitle {
@@ -210,9 +211,8 @@ h1.itemCard__title {
 .areaSelect .work_time {
     font-size: 11px;
     border: none;
-    line-height: 15px;
+    line-height: 164%;
     display: block;
-    margin-top: 6px;
 }
 
 .city_block {
@@ -278,10 +278,8 @@ h1.itemCard__title {
 
 .itemCard__data .product_status_warehouse,
 .itemCard__data .product_status_on_request {
-    color: #797979;
-    margin: -10px 0 0 0;
+    color: #9AA2B9;
     font-size: 14px;
-    opacity: 0.7;
 }
 
 
@@ -297,7 +295,7 @@ h1.itemCard__title {
 
 .cartCard .product_status_warehouse,
 .cartCard .product_status_on_request {
-    color: #797979;
+    color: #9AA2B9;
     margin: 0;
     font-size: 12px;
     opacity: 1;
@@ -314,7 +312,7 @@ h1.itemCard__title {
 }
 
 .product_status_warehouse span {
-    background: green;
+    background: #008000;
 }
 
 .product_status_on_request span {
@@ -331,17 +329,17 @@ h1.itemCard__title {
 
 .footer_banner .mainSlider__title {
     font-size: 1.5rem;
-    font-family: "RobotoLight";
     margin-bottom: 1rem;
 }
 
 
 .main-video-container h1 {
     font-size: 24px;
+    line-height: 130%;
+    max-width: 320px;
+    font-weight: 700;
     margin-bottom: 8px;
     color: #fff;
-    font-family: "RobotoLight";
-    text-align: center;
 }
 
 
